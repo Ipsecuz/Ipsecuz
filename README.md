@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ipsecuz
 
-### Minecraft Plugin Developer • Java Developer • Open Source Builder
+### A Noob Minecraft Plugin Developer • Java Developer • Open Source Builder
 
 I build Minecraft plugins, security tools, and Java utilities for the community.
 
